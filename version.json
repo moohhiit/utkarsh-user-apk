@@ -1,5 +1,5 @@
 {
-  "version": "",
-  "apkUrl": "",
-  "releaseNotes": ""
+  "version": "1.0",
+  "apkUrl": "https://github.com/moohhiit/utkarsh-user-apk/releases/download/v1.0/Utkarsh",
+  "releaseNotes": "Fix Login error"
 }
